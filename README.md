@@ -1,3 +1,5 @@
+![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=ViniciusBrag&repo=ViniciusBrag&countColorcountColor&countColor=%237B1E7A)
+
 <p align="left"> 
  🖖 Olá, sou Jonathan Manoel. <strong>Sou Desenvolvedor Back-end</strong> e <strong>atualmente estou Cursando o Bootcamp Devpro na PythonProBr.<br> <br>
  🎓 Graduando em Engenharia de Software, Graduado em Teologia</strong>.<br><br>
